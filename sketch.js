@@ -1,7 +1,7 @@
 let table;
 
 function preload() {
-  table = loadTable("https://docs.google.com/spreadsheets/d/e/2PACX-1vRgv9ZlpmCjHzw0bgIH3C1nooSmCCe-Hu8zBLJvMCGHUeIXzzjq3QMjsazICbNn2KCmM3MwuQG0zyNf/pub?output=csv", "csv", "header");
+  table = loadTable("ViewingActivity - ViewingActivity.csv", "csv", "header");
 }
 
 function setup() {
