@@ -113,7 +113,7 @@ p {
     line-height: 40px;
 }
 
-canvas {
+.p5Canvas {
     display:block;
 }
 
